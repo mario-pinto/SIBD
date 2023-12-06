@@ -2,3 +2,4 @@
 23.24 12L1 - CP Técnico de Informática - Sistemas
 
 Mário Pinto - mariopinto@soaresbasto.pt
+Henrique Soares - a24791@soaresbasto.pt
