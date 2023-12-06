@@ -2,6 +2,8 @@
 23.24 12L1 - CP Técnico de Informática - Sistemas
 
 Mário Pinto - mariopinto@soaresbasto.pt
+
+Diogo Pinto - diogofsp1@gmail.com
 Pedro Queiroz - a29199@soaresbasto.pt
 Gonçalo Pinho - a29181@soaresbasto.pt
 Sergio Medina - a28694@soaresbasto.pt
