@@ -3,3 +3,4 @@
 
 Mário Pinto - mariopinto@soaresbasto.pt
 Rafael Almeida - a29204@soaresbasto.pt
+Joel Tavares - a29185@soaresbasto.pt
