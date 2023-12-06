@@ -4,3 +4,4 @@
 Mário Pinto - mariopinto@soaresbasto.pt
 André Morais - acosta@soaresbasto.pt
 Joel Tavares - a29185@soaresbasto.pt
+Jesus Reyes - a27690@soaresbasto.pt
