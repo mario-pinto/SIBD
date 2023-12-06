@@ -3,4 +3,5 @@
 
 Mário Pinto - mariopinto@soaresbasto.pt
 Ana Silva - a25541@soaresbasto.pt
+André Morais - acosta@soaresbasto.pt
 Joel Tavares - a29185@soaresbasto.pt
