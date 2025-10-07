@@ -16,3 +16,5 @@
 - André Morais - acosta@soaresbasto.pt
 - Mário Pinto - mariopinto@soaresbasto.pt
 - Fernando Ferreira - fernandoferreira@soaresbasto.pt
+
+2025/2026
