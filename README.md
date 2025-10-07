@@ -15,7 +15,7 @@
 - Rúben Lameiras - a25155@soaresbasto.pt
 - Nicolás Márquez - a30068@soaresbasto.pt
 - Werick Montalvão - a29990@soaresbasto.pt
-
+- David Leite - a30009@soaresbasto.pt
 ## Professores
 - André Morais - acosta@soaresbasto.pt
 - Mário Pinto - mariopinto@soaresbasto.pt
