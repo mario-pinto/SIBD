@@ -10,6 +10,7 @@
 - Felipe Moura - a29597@soaresbasto.pt
 - Diogo Silva - a25127@soaresbasto.pt
 - Icaro Luan - a30023@soaresbasto.pt
+- Tomás Shan - a27288@soaresbasto.pt
 
 ## Professores
 - André Morais - acosta@soaresbasto.pt
