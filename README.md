@@ -3,6 +3,7 @@
 
 ## Alunos
 - Isac Sousa - a26323@soaresbasto.pt
+- Diogo Esteves - a26318@soaresbasto.pt
 
 ## Professores
 - André Morais - acosta@soaresbasto.pt
