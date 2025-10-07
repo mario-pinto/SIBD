@@ -11,6 +11,7 @@
 - Diogo Silva - a25127@soaresbasto.pt
 - Icaro Luan - a30023@soaresbasto.pt
 - Tomás Shan - a27288@soaresbasto.pt
+- Diogo Pereira - a28592@soresbasto.pt
 
 ## Professores
 - André Morais - acosta@soaresbasto.pt
