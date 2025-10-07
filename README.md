@@ -8,6 +8,7 @@
 - Sérgio Castro - a25440@soaresbasto.pt
 - Hérikson Ferreira - a25235@soaresbasto.pt
 - Diogo Silva - a25127@soaresbasto.pt
+- Icaro Luan - a30023@soaresbasto.pt
 
 ## Professores
 - André Morais - acosta@soaresbasto.pt
