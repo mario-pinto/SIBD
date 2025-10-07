@@ -13,6 +13,7 @@
 - Tomás Shan - a27288@soaresbasto.pt
 - Diogo Pereira - a28592@soaresbasto.pt
 - Rúben Lameiras - a25155@soaresbasto.pt
+- Nicolás Márquez - a30068@soaresbasto.pt
 
 ## Professores
 - André Morais - acosta@soaresbasto.pt
