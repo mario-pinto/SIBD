@@ -6,6 +6,7 @@
 - Diogo Esteves - a26318@soaresbasto.pt
 - Cauã Riquelme - a30054@soaresbasto.pt
 - Sérgio Castro - a25440@soaresbasto.pt
+- Hérikson Ferreira - a25235@soaresbasto.pt
 
 ## Professores
 - André Morais - acosta@soaresbasto.pt
