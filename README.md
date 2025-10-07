@@ -16,6 +16,8 @@
 - Nicolás Márquez - a30068@soaresbasto.pt
 - Werick Montalvão - a29990@soaresbasto.pt
 - David Leite - a30009@soaresbasto.pt
+- Diogo Henriques - a27927@soaresbasto.pt
+
 ## Professores
 - André Morais - acosta@soaresbasto.pt
 - Mário Pinto - mariopinto@soaresbasto.pt
