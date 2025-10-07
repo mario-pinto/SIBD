@@ -17,6 +17,7 @@
 - Werick Montalvão - a29990@soaresbasto.pt
 - David Leite - a30009@soaresbasto.pt
 - Diogo Henriques - a27927@soaresbasto.pt
+- Luis Hernandez - a29973@soaresbasto.pt
 
 ## Professores
 - André Morais - acosta@soaresbasto.pt
