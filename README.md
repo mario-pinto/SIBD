@@ -14,6 +14,7 @@
 - Diogo Pereira - a28592@soaresbasto.pt
 - Rúben Lameiras - a25155@soaresbasto.pt
 - Nicolás Márquez - a30068@soaresbasto.pt
+- Werick Montalvão - a29990@soaresbasto.pt
 
 ## Professores
 - André Morais - acosta@soaresbasto.pt
